@@ -1,6 +1,6 @@
 # Bank-Deposit-Subscription-Predictive-Model
 ## Business Problem
-Term deposis are a reliable and low-risk source of funding for banks. By accurately predicting which customers are more likely to subscribe, the bank can maximize the number of term deposits thereby increasing its overall revenue. On the other hand, marketing campaign can be costly and time-consuming. By focusing on high-potential customers, the bank can allocate marketing resources more efficiently, reducing costs and improving the return on investment (ROI). 
+Term deposits are a reliable and low-risk source of funding for banks. By accurately predicting which customers are more likely to subscribe, the bank can maximize the number of term deposits thereby increasing its overall revenue. On the other hand, marketing campaign can be costly and time-consuming. By focusing on high-potential customers, the bank can allocate marketing resources more efficiently, reducing costs and improving the return on investment (ROI). 
 ## Business Goals
 - Increased revenue
 - Efficient Marketing
