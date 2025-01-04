@@ -13,11 +13,17 @@ The dataset contains 21 features, including customer attributes such as age, job
 ### Data Exploration
 ![image](https://github.com/user-attachments/assets/87854398-d542-4c07-ad1b-1e4790a98fc0)
 Overall, conversion rate is 66%, a strong performance given the 39,00 total contacts. 
+
 **Timing is crucial**. Thursday stands out as the most successful day for conversions, and married individuals, particularly those contacted via cellular phones, respond best. This suggests that targeting the right audience at the right time using the most effective communication method can further improve our success.
+
 **Our audience demographics reveal more opportunities**. The majority of contacts are in administrative or blue-collar jobs, with most people aged between 20 and 50, especially in the 30-40 age range. Additionally, education levels are telling: university graduates and high school-educated individuals dominate our reach. Customizing messages for these groups could make a significant impact.
+
 **Call duration also plays a critical role**. While many calls are short, we observe a clear trend: longer calls have a higher likelihood of converting. This emphasizes the importance of investing in meaningful and engaging interactions. Successful calls average 554 seconds.
+
 **Seasonality is another factor**. Conversion rates peak in May, June, and July, highlighting the influence of seasonal patterns on engagement. Planning our campaigns around these high-performing months could yield better results.
+
 **Timing post-contact** matters significantly. Contacts made within 30 days of the initial reach ouout show much higher success rates, whereas delays severely reduce the chances of conversion. Lastly, we see that economic conditions influence behavior, with a higher employment variation rate correlating positively with subscriptions.
+
 **Client with housing loans** were more likely to subscribe to term deposits.
 ### Steps
 - Data Pre-processing
